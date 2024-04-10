@@ -120,3 +120,23 @@ button {
     padding: 0 15px;
     color: #1F2937
 }
+
+.three {
+    background-color: #E5E7EB;
+    padding: 100px 700px;
+}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    margin-bottom: 10px;;
+}
+
+.quotee {
+    text-align: end;
+    color: #1F2937;
+    font-weight: 800;
+    font-size: larger;
+}
