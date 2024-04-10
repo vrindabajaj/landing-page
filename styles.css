@@ -74,3 +74,13 @@ a {
     padding: 100px;
     flex: 1 1 0px;
 }
+
+button {
+    background-color: #3882FC;
+    color: #F9FAF8;
+    font-weight: 800;
+    font-size: 14px;
+    padding: 6px 25px;
+    border: #3882FC;
+    border-radius: 5px;
+}
