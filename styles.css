@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 200px;
+    padding: 0 600px;
 }
 
 .logo {
@@ -25,7 +25,6 @@ body {
     gap: 15px;
     padding: 0;
     margin: 0;
-    
 }
 
 ul {
@@ -43,29 +42,27 @@ a {
 } */
 
 .one {
-    padding: 100px 200px;
+    padding: 150px 600px;
     display: flex;
-    /* justify-content: center;
-    align-items: center; */
     gap: 50px;
-    
+    justify-content: space-between;
 }
 
 .hero-text {
-    flex: 1;
+    flex: 1 1 0px;
 }
 
 .main-text {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
-    margin-bottom: 6px;
+    margin-bottom: 5px;
 }
 
 .secondary-text {
     font-size: 18px;
     color: #E5E7EB;
-    margin-bottom: 8px;
+    margin-bottom: 10px;
 }
 
 .image {
@@ -74,5 +71,6 @@ a {
     justify-content: center;
     align-items: center;
     color: #E5E7EB;
-    flex-basis: 400px;
+    padding: 100px;
+    flex: 1 1 0px;
 }
