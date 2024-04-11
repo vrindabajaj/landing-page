@@ -140,3 +140,33 @@ button {
     font-weight: 800;
     font-size: larger;
 }
+
+.four {
+    padding: 100px 500px;
+}
+
+.cta {
+    background-color: #3882FC;
+    padding: 40px 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cta button{
+    border: solid #E5E7EB 2px;
+    margin: 12px 0;
+}
+
+.cta-text div{
+    color: #F9FAF8;
+}
+
+.cta-text .main-text{
+    font-size: larger;
+}
+
+.cta-text .secondary-text{
+    font-size: 16px;
+}
+
